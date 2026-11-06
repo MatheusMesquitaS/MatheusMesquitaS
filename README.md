@@ -1,19 +1,40 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#2323ADcd&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2323AD&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Mesquita;I'm+20+years+old;I'm+from+Brasil,+SP;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
+<div align="center">
 
+https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Matheus+Mesquita;I'm+20+years+old;I'm+from+S%C3%A3o+Paulo,+Brazil;Welcome+to+my+profile!+:%29](https://git.io/typing-svg)
 
-<div align="center">    
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusMesquitaS&show_icons=true&count_private=true&hide_border=true&title_color=#07A1E1cd&icon_color=31417A&text_color=31417A&bg_color=0d1117" alt="Matheus Mesquita" /> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMesquitaS&layout=compact&hide_border=true&title_color=ffffcd&text_color=ffff&bg_color=0d1117" />
 </div>
 
-<br>
+## About me
 
-<div align="center">  
-<a href="https://www.linkedin.com/in/matheus-mesquita-desousa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+IT intern working with infrastructure, support and asset management. I enjoy turning everyday problems into small tools — like a full inventory system I built to replace spreadsheets at work.
+
+## Projects
+
+**https://github.com/MatheusMesquitaS/stockit** — web app for IT inventory control across multiple sites, with user roles, movement history, hardware specs for notebooks and desktops, dark mode and three languages.
+`Python` `Flask` `SQLite` `JavaScript`
+
+## Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,flask,sqlite,html,css,js,bootstrap,react,java,mysql,git,figma&perline=12" />
+  </a>
+</p>
+
+## GitHub stats
+
+<div align="center">
+  <img src="https://ghstats.dev/api/card?username=MatheusMesquitaS&theme=tokyonight" alt="Matheus Mesquita GitHub stats" />
 </div>
 
+## Contact
 
-### Main skills:
-[![My skills](https://skills.thijs.gg/icons?i=html,css,js,bootstrap,react,figma,java,mysql)](https://skills.thijs.gg)
+<div align="center">
+  <a href="https://www.linkedin.com/in/matheus-mesquita-desousa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2323AD&height=120&section=footer"/>
